@@ -1,0 +1,15 @@
+{
+  "title": "Vegan Recipes",
+  "url": "https://myurl.com/",
+  "description": "Vegan Recipes",
+  "feed": {
+    "subtitle": "Vegan Recipes",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://myurl.com/"
+  },
+  "author": {
+    "name": "Matt Busche",
+    "email": "mrbusche@gmail.com"
+  }
+}
