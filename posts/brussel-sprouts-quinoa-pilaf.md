@@ -19,6 +19,7 @@ layout: layouts/post.njk
 - pinch of salt
 - 1/2 c chives
 - 1/4 c raisins
+- 1 1/2 c cooked quinoa (2/3 c quinoa, 1 1/3 c water)
 
 ### Directions
 
