@@ -1,16 +1,16 @@
 ---
-title: Brussel Sprouts and Quinoa Pilaf
-description: Brussel Sprouts and Quinoa Pilaf
+title: Brussels Sprouts and Quinoa Pilaf
+description: Brussels Sprouts and Quinoa Pilaf
 date: 2020-03-12
 tags:
   - quinoia
-  - brusselsprouts
+  - brusselssprouts
 layout: layouts/post.njk
 ---
 
 ### Ingredients
 
-- 1 pound shredded brussel Sprouts
+- 1 pound shredded brussels Sprouts
 - 1 shallot chopped or 1/4 c yellow onion
 - 1 glove garlic, minced
 - 1 Tbsp olive oil
