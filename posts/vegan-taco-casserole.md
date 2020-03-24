@@ -3,8 +3,10 @@ title: Vegan Taco Casserole
 description: Vegan Taco Casserole
 date: 2020-03-23
 tags:
-  - hummus
-  - pasta
+  - beans
+  - blackbeans
+  - northernbeans
+  - chips
 layout: layouts/post.njk
 ---
 
