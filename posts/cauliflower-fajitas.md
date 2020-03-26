@@ -27,7 +27,7 @@ layout: layouts/post.njk
 
 ### Directions
 
-- Preheat over to 425
+- Preheat oven to 425
 - Line pan with parchment paper or spray
 - Mix spices in bowl
 - Combine everything in a large bowl

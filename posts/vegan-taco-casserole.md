@@ -32,7 +32,7 @@ layout: layouts/post.njk
 
 ### Directions
 
-- Preheat over to 400
+- Preheat oven to 400
 - Combine onion, garlic, oil, chili powder, cumin, basil, cayenne, paprika, and salt in a skillet and cook for 5-10 minutes
 - Add beans and stir well
 - Spray a 9 x 13 glass baking dish
