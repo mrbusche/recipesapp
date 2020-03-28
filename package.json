@@ -1,7 +1,7 @@
 {
   "name": "vegan-recipes",
   "version": "0.0.1",
-  "description": "A starter repository for a blog web site using the Eleventy static site generator.",
+  "description": "A list of Vegan Recipes I've enjoyed.",
   "scripts": {
     "build": "eleventy",
     "watch": "eleventy --watch",
