@@ -4,6 +4,7 @@ description: Sweet Potato Gnocchi with Sage Butter
 date: 2020-03-23
 tags:
   - sweetpotatoes
+  - dinner
 layout: layouts/post.njk
 ---
 

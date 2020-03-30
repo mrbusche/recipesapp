@@ -7,6 +7,7 @@ tags:
   - pintobeans
   - beans
   - cauliflower
+  - dinner
 layout: layouts/post.njk
 ---
 

@@ -4,6 +4,7 @@ description: Vegan pancakes
 date: 2020-03-27
 tags:
   - pancakes
+  - breakfast
 layout: layouts/post.njk
 ---
 

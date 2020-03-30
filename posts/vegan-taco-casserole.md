@@ -7,6 +7,7 @@ tags:
   - blackbeans
   - northernbeans
   - chips
+  - dinner
 layout: layouts/post.njk
 ---
 

@@ -7,6 +7,7 @@ tags:
   - meat
   - marinara
   - spinach
+  - dinner
 layout: layouts/post.njk
 ---
 

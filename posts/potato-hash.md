@@ -4,6 +4,7 @@ description: Potato Hash
 date: 2020-03-09
 tags:
   - potatoes
+  - dinner
 layout: layouts/post.njk
 ---
 

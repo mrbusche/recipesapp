@@ -5,6 +5,7 @@ date: 2020-03-23
 tags:
   - hummus
   - pasta
+  - dinner
 layout: layouts/post.njk
 ---
 

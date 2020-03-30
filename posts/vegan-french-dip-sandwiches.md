@@ -6,6 +6,7 @@ tags:
   - mushrooms
   - onion
   - bread
+  - dinner
 layout: layouts/post.njk
 ---
 
