@@ -6,6 +6,7 @@ tags:
   - chickpeas
   - spaghetti
   - carrots
+  - dinner
 layout: layouts/post.njk
 ---
 

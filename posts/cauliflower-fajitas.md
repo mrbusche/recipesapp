@@ -6,6 +6,7 @@ tags:
   - cauliflower
   - tortillas
   - mexican
+  - dinner
 layout: layouts/post.njk
 ---
 

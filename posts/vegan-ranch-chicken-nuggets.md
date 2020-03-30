@@ -5,7 +5,8 @@ date: 2020-03-09
 tags:
   - chicken
   - tofu
-  - plain yogurt
+  - plainyogurt
+  - dinner
 layout: layouts/post.njk
 ---
 

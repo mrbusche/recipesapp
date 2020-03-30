@@ -4,6 +4,7 @@ description: Roasted Green Beans
 date: 2020-03-26
 tags:
   - greenbeans
+  - side
 layout: layouts/post.njk
 ---
 

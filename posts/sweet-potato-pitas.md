@@ -6,6 +6,7 @@ tags:
   - sweetpotatoes
   - pita
   - cucumber
+  - dinner
 layout: layouts/post.njk
 ---
 

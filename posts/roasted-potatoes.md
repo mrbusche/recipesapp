@@ -4,6 +4,7 @@ description: Roasted Potatoes
 date: 2020-03-27
 tags:
   - potatoes
+  - side
 layout: layouts/post.njk
 ---
 

@@ -6,8 +6,9 @@ tags:
   - cauliflower
   - peppers
   - chinese
-  - stir-fry
+  - stirfry
   - rice
+  - dinner
 layout: layouts/post.njk
 ---
 
