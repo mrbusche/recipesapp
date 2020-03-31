@@ -7,6 +7,16 @@ eleventyNavigation:
   order: 3
 ---
 
+## April 2020
+
+| Sunday                         | Monday                         | Tuesday | Wednesday | Thursday                                                                  | Friday                                       | Saturday                    |
+| ------------------------------ | ------------------------------ | ------- | --------- | ------------------------------------------------------------------------- | -------------------------------------------- | --------------------------- |
+|                                |                                |         | 1.        | 2. [Cauliflower pasta bake](/posts/vegan-cauliflower-parmesan-pasta-bake) | 3. [Jackfruit tacos](/posts/jackfruit-tacos) | 4. Black bean plantain bowl |
+| 5. Sweet potato peanut burgers | 6. Mexican Tater Tot Casserole | 7.      | 8.        | 9.                                                                        | 10.                                          | 11.                         |
+| 12.                            | 13.                            | 14.     | 15.       | 16.                                                                       | 17.                                          | 18.                         |
+| 19.                            | 20.                            | 21.     | 22.       | 23.                                                                       | 24.                                          | 25.                         |
+| 26.                            | 27.                            | 28.     | 29.       | 30.                                                                       |                                              |                             |
+
 ## March 2020
 
 | Sunday                                                                    | Monday                                              | Tuesday                                      | Wednesday                                                       | Thursday                                                                      | Friday                                                                                     | Saturday                                           |
@@ -14,4 +24,4 @@ eleventyNavigation:
 | 8. [Beefy Skillet Lasagna](/posts/beefy-skillet-lasagna/)                 | 9. [Potato Hash](/posts/potato-hash)                | 10. Burgers/Fries                            | 11. [Kung Pao](/posts/kung-pao-cauliflower-stir-fry/)           | 12. [Brussels Sprouts w/ quinoa pilaf](/posts/brussels-sprouts-quinoa-pilaf/) | 13. [Tofu nuggets](/posts/vegan-ranch-chicken-nuggets/)                                    | 14.                                                |
 | 15. [Chickpea Bolognese](/posts/chickpea-bolognese)                       | 16. [Sweet potato pitas](/posts/sweet-potato-pitas) | 17. Pizza burgers                            | 18. [Rice and bean enchiladas](/posts/rice-and-bean-enchiladas) | 19. [Spaghetti and meatball soup](/posts/spaghetti-and-meatball-soup)         | 20. [Brussels Sprouts](best-brussels-sprouts)                                              | 21. [Pizza](https://www.dominos.com)               |
 | 22. [Sweet potato gnocchi](/posts/sweet-potato-gnocchi-with-sage-butter/) | 23. [Hummus Pasta](/posts/hummus-pasta)             | 24. [Dirt Burger](https://www.dirtburger.us) | 25. [Cauliflower fajitas](/posts/cauliflower-fajitas/)          | 26. [French dip sandwiches](/posts/vegan-french-dip-sandwiches/)              | 27 [Pancakes](/posts/vegan-pancakes), sausage, [roasted potatoes](/posts/roasted-potatoes) | 28. [Taco Casserole](/posts/vegan-taco-casserole/) |
-| 29. Potato Hash with couscous                                             | 30. Baked Ziti                                      | 31.                                          |
+| 29. Potato Hash with couscous                                             | 30. [Baked Ziti](/posts/vegan-baked-ziti)           | 31.                                          |
