@@ -23,10 +23,10 @@ layout: layouts/post.njk
 ### Directions
 
 - Preheat oven to 350
-- In large paute saute onion, garlic and cauliflower for about 7 minutes, add water if needed
+- In large pan saute onion, garlic and cauliflower for about 7 minutes, add water if needed
 - Add pinto beans
 - Remove from heat and set aside
-- Spoon 1/8 of the mixture onto an echilada and roll it up
+- Spoon 1/8 of the mixture onto an enchilada and roll it up
 - Place in a 9x13 baking dish or 8 1/2 x 11 if you're good at puzzles
 - Bake 25-30 minutes
 

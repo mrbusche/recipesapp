@@ -26,7 +26,7 @@ layout: layouts/post.njk
 ### Directions
 
 - Add 1 Tbsp oil to a skillet
-- Add onion and toss with oil, cook until carmelized, about 20 minutes
+- Add onion and toss with oil, cook until caramelized, about 20 minutes
 - Add garlic and cook 2 more minutes
 - Transfer to a plate
 - Add the remaining oil to skillet with mushrooms, don't crowd them too much, it make take multiple batches

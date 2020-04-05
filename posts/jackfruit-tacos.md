@@ -34,7 +34,7 @@ layout: layouts/post.njk
 
 ### Directions
 
-- Heaat oil in a skillet and fry onion until softened
+- Heat oil in a skillet and fry onion until softened
 - Add cumin, chili powder and paprika
 - Add jackfruit and continue to fry for 3-5 minutes
 - Add cabbage, fennel and apple in a large bowl
