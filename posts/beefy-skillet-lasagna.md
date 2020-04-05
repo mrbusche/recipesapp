@@ -28,7 +28,7 @@ layout: layouts/post.njk
 - Saute vegan beef
 - Add garlic clove, saute 30 seconds
 - Add milk, marinara, noodles, nutritional yeast, and water. Make sure noodles are mostly covered in liquid.
-- Bring to a boail, cover, and lower the heat. Simmer for 25 minutes
+- Bring to a boil, cover, and lower the heat. Simmer for 25 minutes
 - Once noodles are done add in spinach and salt
 
 [Source](https://vegantraveleats.com/beefy-skillet-lasagna/)

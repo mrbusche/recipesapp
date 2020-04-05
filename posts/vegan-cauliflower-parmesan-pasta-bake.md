@@ -21,7 +21,7 @@ layout: layouts/post.njk
 
 - Coating
   - 1/3 cup breadcrumbs
-  - 2 Tbps vegan parmesan or nutritional yeast
+  - 2 Tbsp vegan parmesan or nutritional yeast
   - 1/2 tsp paprika
   - 1/2 tsp garlic powder
   - 1/2 tsp onion powder
@@ -33,7 +33,7 @@ layout: layouts/post.njk
 - Place cauliflower slices on pan and brush with olive oil
 - Sprinkle with old bay seasoning, garlic, salt and pepper
 - Bake for 17 to 18 minutes
-- Cook past to al dente.
+- Cook past to al dente
 - Drain and add to a baking dish
 - Add marinara and toss to coat
 - Add 1/4 cup water on the edges

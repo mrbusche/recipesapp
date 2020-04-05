@@ -32,7 +32,7 @@ layout: layouts/post.njk
 - Line pan with parchment paper or spray
 - Mix spices in bowl
 - Combine everything in a large bowl
-- Add mixutre to pan(s) and cook for 20-25 minutes
+- Add mixture to pan(s) and cook for 20-25 minutes
 - Serve with tortillas
 
 [Source](https://www.noracooks.com/sheet-pan-cauliflower-fajitas/)

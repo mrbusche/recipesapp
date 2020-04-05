@@ -3,7 +3,7 @@ title: Brussels Sprouts and Quinoa Pilaf
 description: Brussels Sprouts and Quinoa Pilaf
 date: 2020-03-12
 tags:
-  - quinoia
+  - quinoa
   - brusselssprouts
   - dinner
 layout: layouts/post.njk

@@ -21,18 +21,18 @@ layout: layouts/post.njk
 - The rest
   - 1 pound ziti noodles, cooked
   - 25 oz marinara sauce
-  - vegan mozarella cheese
+  - vegan mozzarella cheese
 
 ### Directions
 
 - Preheat oven to 375
 - Soak cashews in boiling water for at least 5 minutes
-- Drain the cashews and add to food processor with water, lemon, yeast, garic, onion powder and salt
+- Drain the cashews and add to food processor with water, lemon, yeast, garlic, onion powder and salt
 - Blend until smooth
 - Combine marinara and cooked pasta
 - Add to 9 x 13 glass dish
 - Add cashew cheese and stir gently
-- Add mozarella cheese
+- Add mozzarella cheese
 - Bake, uncovered, for 25 minutes
 
 [Source](https://www.noracooks.com/vegan-baked-ziti/)
