@@ -14,7 +14,7 @@ layout: layouts/post.njk
 ### Ingredients
 
 - Ground beef or beef substitute
-- 3 Tbsp taco seasoning
+- 3 Tbsp [taco seasoning](/posts/taco-seasoning)
 - 1 15 oz can black beans, drained
 - 1 15 oz can corn, drained
 - 3/4 c crushed tomatoes
