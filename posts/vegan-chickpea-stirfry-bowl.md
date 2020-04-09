@@ -20,7 +20,7 @@ layout: layouts/post.njk
 - 2 15oz cans of chickpeas, drained
 - olive oil
 - brown rice
-- homemade stir fry size
+- [homemade stir fry size](/posts/stir-fry-sauce)
 
 ### Directions
 
