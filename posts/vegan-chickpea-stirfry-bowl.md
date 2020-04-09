@@ -13,7 +13,7 @@ layout: layouts/post.njk
 
 - 1 large onion, diced
 - 8 cloves of garlic, minces
-- 2 Tbsp fresh giner
+- 2 Tbsp fresh ginger
 - 2 8oz cans of water chestnuts, drained
 - 1 8oz can baby corn, drained
 - 10 oz frozen broccoli
@@ -27,7 +27,7 @@ layout: layouts/post.njk
 - Preheat over to 450
 - Place chickpeas on baking sheet and toss with 1/8 cup of olive oil
 - Roast for 15-18 minutes, shaking about 10 minutes in
-- Add onion, garlic, giner, chestnuts, and corn to a bowl and toss
+- Add onion, garlic, ginger, chestnuts, and corn to a bowl and toss
 - Heat in a skillet for 8-10 minutes
 - Make stir fry sauce
 - Add sauce and broccoli to skillet, cook until broccoli is done
