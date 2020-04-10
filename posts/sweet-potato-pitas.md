@@ -3,7 +3,7 @@ title: Sweet Potato Pitas
 description: Sweet Potato Pitas
 date: 2020-03-16
 tags:
-  - sweetpotatoes
+  - sweetpotato
   - pita
   - cucumber
   - dinner
