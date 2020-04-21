@@ -6,6 +6,7 @@ tags:
   - broccoli
   - sweetpotato
   - chickpea
+  - dinner
 layout: layouts/post.njk
 ---
 

@@ -8,6 +8,7 @@ tags:
   - corn
   - tatertots
   - blackbeans
+  - dinner
 layout: layouts/post.njk
 ---
 

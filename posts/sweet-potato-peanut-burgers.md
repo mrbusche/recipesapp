@@ -6,6 +6,7 @@ tags:
   - sweetpotato
   - chickpeas
   - peanuts
+  - dinner
 layout: layouts/post.njk
 ---
 

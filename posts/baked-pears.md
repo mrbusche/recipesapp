@@ -4,6 +4,7 @@ description: Baked Pears
 date: 2020-04-09
 tags:
   - pears
+  - dessert
 layout: layouts/post.njk
 ---
 

@@ -5,6 +5,7 @@ date: 2020-03-30
 tags:
   - cashews
   - pasta
+  - dinner
 layout: layouts/post.njk
 ---
 

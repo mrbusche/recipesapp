@@ -6,6 +6,7 @@ tags:
   - cucumber
   - basil
   - avocado
+  - dinner
 layout: layouts/post.njk
 ---
 

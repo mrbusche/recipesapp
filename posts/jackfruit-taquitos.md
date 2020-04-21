@@ -3,10 +3,10 @@ title: Jackfruit taquitos
 description: Jackfruit taquitos
 date: 2020-04-20 21:26:00
 tags:
-    - tortillas
-    - jackfruit
-    - onion
-    - dinner
+  - tortillas
+  - jackfruit
+  - onion
+  - dinner
 layout: layouts/post.njk
 ---
 
@@ -25,7 +25,7 @@ layout: layouts/post.njk
 - Rinse and cut jackfruit into "shredded beef" like pieces
 - Heat oil in skillet
 - Add jackfruit and cook for a few minutes
-- Add onion and saute for a few minutes
+- Add onion and sauté for a few minutes
 - Add taco seasoning, water and aminos
 - Cook for about 10 minutes
 - Add jackfruit to tortillas and roll them into little taquitos

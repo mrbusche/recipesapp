@@ -6,6 +6,7 @@ tags:
   - sweetpotato
   - blackbeans
   - enchiladas
+  - dinner
 layout: layouts/post.njk
 ---
 
@@ -28,7 +29,7 @@ layout: layouts/post.njk
 - Make sweet potatoes
 - Preheat oven to 350 degrees
 - Add garlic and onion to a large skillet with 1 tsp of olive oil
-- Saute 10 minutes
+- Sauté 10 minutes
 - Add to beans, sweet potatoes, lime juice, cumin, chili powder, and salt to skillet
 - Assemble enchiladas using the tortillas
 - Place enchilada in a 9x13 glass dish and cover with enchilada sauce

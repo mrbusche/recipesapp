@@ -5,6 +5,7 @@ date: 2020-04-20 11:36:00
 tags:
   - cauliflower
   - hotsauce
+  - dinner
 layout: layouts/post.njk
 ---
 

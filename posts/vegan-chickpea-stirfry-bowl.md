@@ -6,6 +6,7 @@ tags:
   - chickpeas
   - broccoli
   - rice
+  - dinner
 layout: layouts/post.njk
 ---
 

@@ -5,6 +5,7 @@ date: 2020-03-30
 tags:
   - cauliflower
   - pasta
+  - dinner
 layout: layouts/post.njk
 ---
 
@@ -25,7 +26,7 @@ layout: layouts/post.njk
   - 1/2 tsp paprika
   - 1/2 tsp garlic powder
   - 1/2 tsp onion powder
-  - 1 tsp italian herb blend
+  - 1 tsp Italian herb blend
 
 ### Directions
 
@@ -39,7 +40,7 @@ layout: layouts/post.njk
 - Add 1/4 cup water on the edges
 - Place baked cauliflower on the pasta
 - Add mozzarella on top
-- Mix breadcrumbs with vegan parm
+- Mix breadcrumbs with vegan parmesan
 - Sprinkle this all over the cauliflower slices and the pasta.
 - Bake for 20 to 25 minutes
 
