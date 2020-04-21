@@ -6,6 +6,7 @@ tags:
   - jackfruit
   - tacos
   - tortillas
+  - dinner
 layout: layouts/post.njk
 ---
 
@@ -16,7 +17,7 @@ layout: layouts/post.njk
   - 1 white onion, thinly sliced
   - 1 can jackfruit
   - 2 tsp cumin
-  - 1 tsp chilli powder
+  - 1 tsp chili powder
   - 2 tsp smoked paprika
   - 1 tsp garlic powder
   - 1/2 tsp salt

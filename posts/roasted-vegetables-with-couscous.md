@@ -7,7 +7,8 @@ tags:
   - sweetpotato
   - onion
   - pepper
-  - beet
+  - beets
+  - dinner
 layout: layouts/post.njk
 ---
 

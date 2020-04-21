@@ -7,6 +7,7 @@ tags:
   - blackbeans
   - rice
   - cabbage
+  - dinner
 layout: layouts/post.njk
 ---
 

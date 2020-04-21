@@ -5,6 +5,7 @@ date: 2020-04-20 13:39:00
 tags:
   - tortillas
   - peppers
+  - dinner
 layout: layouts/post.njk
 ---
 
@@ -20,6 +21,6 @@ layout: layouts/post.njk
 ### Directions
 
 - Preheat oven to 450
-- Put pizza saurce on tortilla
+- Put pizza sauce on tortilla
 - Add toppings
 - Cook for 8 minutes

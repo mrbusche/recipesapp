@@ -4,6 +4,7 @@ description: Roasted sweet potatoes
 date: 2020-04-09
 tags:
   - sweetpotato
+  - side
 layout: layouts/post.njk
 ---
 

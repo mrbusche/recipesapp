@@ -25,8 +25,8 @@ layout: layouts/post.njk
 
 ### Directions
 
-- Saute vegan beef
-- Add garlic clove, saute 30 seconds
+- Sauté vegan beef
+- Add garlic clove, sauté 30 seconds
 - Add milk, marinara, noodles, nutritional yeast, and water. Make sure noodles are mostly covered in liquid.
 - Bring to a boil, cover, and lower the heat. Simmer for 25 minutes
 - Once noodles are done add in spinach and salt

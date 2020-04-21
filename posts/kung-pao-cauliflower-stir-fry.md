@@ -53,8 +53,8 @@ Batter:
 Skillet:
 
 - Heat oil in a skillet
-- Add garlic and ginger and saute for 1 minute, stirring frequently
-- Add pepper and saute with a lid on for 5-6 minutes, stirring frequently
+- Add garlic and ginger and sauté for 1 minute, stirring frequently
+- Add pepper and sauté with a lid on for 5-6 minutes, stirring frequently
 
 Sauce:
 

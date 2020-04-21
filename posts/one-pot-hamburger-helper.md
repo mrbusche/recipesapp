@@ -32,9 +32,9 @@ layout: layouts/post.njk
 ### Directions
 
 - Preheat oven to 350
-- Add oil and onions to dutch over and saute
+- Add oil and onions to dutch oven and sauté
 - Add sausage and garlic and stir
-- Add spcies and yeast and cook for a few minutes
+- Add spices and yeast and cook for a few minutes
 - Add tomatoes, cheese, and aminos and cook for 8 minutes
 - Add noodles and stir, add water just enough to cover all noodles
 - Bake in oven for 30 minutes

@@ -25,7 +25,7 @@ layout: layouts/post.njk
 ### Directions
 
 - Heat olive oil in large pot
-- Add garlic and onions and saute for 5 minutes
+- Add garlic and onions and sauté for 5 minutes
 - Add broth, tomatoes, vinegar, basil and oregano
 - simmer, then reduce heat to medium and add spaghetti
 - Once spaghetti is cooked add meatballs
