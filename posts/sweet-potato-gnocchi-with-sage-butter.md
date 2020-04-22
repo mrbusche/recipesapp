@@ -15,8 +15,8 @@ layout: layouts/post.njk
 - 1/2 tsp ground nutmeg
 - 1/2 tsp ground pepper
 - 2 1/2 - 3 1/2 cups flour
-- 1/2 c butter
-- 1/2 c fresh sage leaves
+- 1/2 cup butter
+- 1/2 cup fresh sage leaves
 
 ### Directions
 

@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 - 5 garlic gloves, minced
 - 2 tsp sesame oil
-- 1/4 c coconut aminos
-- 1/2 c vegetable broth
+- 1/4 cup coconut aminos
+- 1/2 cup vegetable broth
 - 2 tsp maple syrup
 - 2 tsp corn starch

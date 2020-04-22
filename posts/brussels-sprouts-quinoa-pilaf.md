@@ -12,15 +12,15 @@ layout: layouts/post.njk
 ### Ingredients
 
 - 1 pound shredded brussels Sprouts
-- 1 shallot chopped or 1/4 c yellow onion
+- 1 shallot chopped or 1/4 cup yellow onion
 - 1 glove garlic, minced
 - 1 Tbsp olive oil
 - 2 tsp lemon juice
 - 1/2 tsp curry powder
 - pinch of salt
-- 1/2 c chives
-- 1/4 c raisins
-- 1 1/2 c cooked quinoa (2/3 c quinoa, 1 1/3 c water)
+- 1/2 cup chives
+- 1/4 cup raisins
+- 1 1/2 cup cooked quinoa (2/3 cup quinoa, 1 1/3 cup water)
 
 ### Directions
 

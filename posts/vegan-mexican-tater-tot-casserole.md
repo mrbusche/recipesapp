@@ -18,7 +18,7 @@ layout: layouts/post.njk
 - 3 Tbsp [taco seasoning](/posts/taco-seasoning)
 - 1 15 oz can black beans, drained
 - 1 15 oz can corn, drained
-- 3/4 c crushed tomatoes
+- 3/4 cup crushed tomatoes
 - 2-3 cups tater tots
 - 1/2 cup vegan cheese
 
