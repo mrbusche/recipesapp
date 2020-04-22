@@ -13,10 +13,10 @@ layout: layouts/post.njk
 ### Ingredients
 
 - 1 package super firm tofu, cubed
-- 1 tbsp soy sauce
+- 1 Tbsp soy sauce
 - 1 1/2 cups vegan broth
 - 1 clove garlic, smashed
-- 2 tbsp oil
+- 2 Tbsp oil
 - 1 cup vegan plain unsweetened yogurt
 - 2 cups vegan cornflakes, smashed into crumbs or run through a food processor
 - 1/4 cup nutritional yeast
