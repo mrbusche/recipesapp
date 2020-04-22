@@ -15,7 +15,7 @@ layout: layouts/post.njk
 - 1 tsp black pepper
 - 1 tsp garlic powder
 - 2 Tbsp olive oil
-- 1/4 c seasoned bread crumbs
+- 1/4 cup seasoned bread crumbs
 
 ### Directions
 
