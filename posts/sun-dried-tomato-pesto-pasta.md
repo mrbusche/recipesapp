@@ -12,7 +12,7 @@ layout: layouts/post.njk
 
 - 10 oz pasta
 - 3 oz sun-dried tomatoes
-- 1/4 cup olive oil
+- 1/4 cup olive oil (not needed if tomatoes are in oil)
 - 1 cup fresh basil
 - 4 cloves garlic, mined
 - 2 Tbsp vegan parmesan
