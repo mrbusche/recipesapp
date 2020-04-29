@@ -7,6 +7,17 @@ eleventyNavigation:
   order: 3
 ---
 
+## May 2020
+
+| Sunday                   | Monday                              | Tuesday            | Wednesday | Thursday | Friday       | Saturday              |
+| ------------------------ | ----------------------------------- | ------------------ | --------- | -------- | ------------ | --------------------- |
+|                          |                                     |                    |           |          | 1. Chili Mac | 2. Burgers with fries |
+| 3. Spaghetti & Meatballs | 4. Roasted vegetables with couscous | 5. Takeout Tuesday | 6.        | 7.       | 8.           | 9.                    |
+| 10.                      | 11.                                 | 12.                | 13.       | 14.      | 15.          | 16.                   |
+| 17.                      | 18.                                 | 19.                | 20.       | 21.      | 22.          | 23.                   |
+| 24.                      | 25.                                 | 26.                | 27.       | 28.      | 29.          | 30.                   |
+| 31.                      |                                     |                    |           |          |              |                       |
+
 ## April 2020
 
 | Sunday                                                               | Monday                                                              | Tuesday                                                         | Wednesday                                                                                       | Thursday                                                                           | Friday                                                       | Saturday                                                                                              |
@@ -15,7 +26,7 @@ eleventyNavigation:
 | 5. [Sweet potato peanut burgers](/posts/sweet-potato-peanut-burgers) | 6. [Mexican Tater Tot Casserole](vegan-mexican-tater-tot-casserole) | 7. [Amigos](https://www.facebook.com/AmigosMexicanGrillAnkeny/) | 8. [Chickpea Stir Fry](vegan-chickpea-stirfry-bowl)                                             | 9. [Sweet potato black bean enchiladas](/posts/sweet-potato-black-bean-enchiladas) | 10. Burgers                                                  | 11. [Cauliflower Bolognese](/posts/cauliflower-bolognese-sauce/)                                      |
 | 12. Brunch                                                           | 13. [Mini pizzas](/posts/mini-pizza)                                | 14. [Siam Table](http://siamtable.com/)                         | 15. [Broccoli Sweet Potato Chickpea Salad](/posts/roasted-broccoli-sweet-potato-chickpea-salad) | 16. [Jackfruit taquitos](/posts/jackfruit-taquitos)                                | 17. Grill                                                    | 18. [Roasted vegetables with couscous](/posts/roasted-vegetables-with-couscous/)                      |
 | 19. [Hamburger helper](/posts/one-pot-hamburger-helper/)             | 20. [Dirt Burger](https://www.dirtburger.us)                        | 21. [Malo](https://malodesmoines.com/)                          | 22. [Cauliflower Buffalo Wings](/posts/cauliflower-buffalo-wings/)                              | 23. [Sweet potato tacos](/posts/sweet-potato-tacos/)                               | 24. [Cucumber avocado rolls](/posts/cucumber-avocado-rolls/) | 25. [Brussels sprouts with apples](/posts/roasted-brussels-sprouts-and-apples-with-carmelized-onions) |
-| 26. Brats with french fries                                          | 27. [Sun Dried Tomato Pasta](/posts/sun-dried-tomato-pesto-pasta)   | 28.                                                             | 29.                                                                                             | 30.                                                                                |                                                              |                                                                                                       |
+| 26. Brats with french fries                                          | 27. [Sun Dried Tomato Pasta](/posts/sun-dried-tomato-pesto-pasta)   | 28. [Beer Styles](http://beerstyles.com/)                       | 29. Southwest Veggie Casserole                                                                  | 30. Cauliflower rice burrito bowl                                                  |                                                              |                                                                                                       |
 
 ## March 2020
 
