@@ -6,4 +6,7 @@ templateClass: tmpl-post
 
 {{ content | safe }}
 
-<p><a href="{{ '/' | url }}">← Home</a></p>
+<p>
+    <a target="_blank" href="https://github.com/mrbusche/recipesapp/blob/master/{{ page.inputPath}}">← Edit this page on Github</a><br>
+    <a href="{{ '/' | url }}">← Home</a>
+</p>
