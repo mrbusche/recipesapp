@@ -1,7 +1,7 @@
 matrix:
   - name: markdown
     pipeline:
-      - pyspelling.filters.text
+      - pyspelling.filters.markdown
     sources:
       - "**/*.md"
     default_encoding: utf-8
