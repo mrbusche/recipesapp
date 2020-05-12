@@ -1,7 +1,7 @@
 ---
 title: Baked Quinoa Black Bean Falafel
 description: Baked Quinoa Black Bean Falafel
-date: 2020-05-11 20:44:01
+date: 2020-05-11 20:44:00
 tags:
   - blackbeans
   - quinoa
