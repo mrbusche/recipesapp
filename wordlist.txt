@@ -51,7 +51,7 @@ minimalistbaker
 netlify
 njk
 noracooks
-northernnbeans
+northernbeans
 ohsheglows
 pao
 parmesan
@@ -75,3 +75,11 @@ ty
 url
 www
 ziti
+adrianas
+chinese
+elavegan
+Carnitas
+chipotle
+julienned
+sacla
+thesashadiaries
