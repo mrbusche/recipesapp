@@ -1,0 +1,15 @@
+Netlify
+eleventyExcludeFromCollections
+endcomment
+github
+href
+html
+https
+io
+netlify
+njk
+permalink
+quicktips
+ty
+url
+www
