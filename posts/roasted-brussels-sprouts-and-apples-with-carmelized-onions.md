@@ -1,6 +1,6 @@
 ---
-title: Roasted Brussels Sprouts and Apples with carmelized onions
-description: Roasted Brussels Sprouts and Apples with carmelized onions
+title: Roasted Brussels Sprouts and Apples with caramelized onions
+description: Roasted Brussels Sprouts and Apples with caramelized onions
 date: 2020-04-21 20:34:00
 tags:
   - brusselssprouts
