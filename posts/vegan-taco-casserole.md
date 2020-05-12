@@ -40,7 +40,7 @@ layout: layouts/post.njk
 - Add a layer of chips to cover bottom of pan
 - Add half the bean mixture to the chips
 - Add 1/4 cup of nutritional yeast
-- Add half of salas
+- Add half of salsa
 - Add another layer of chips then beans, nutritional yeast, and salsa
 - Cover with a layer of crushed chips
 - Cook for 25-30 minutes

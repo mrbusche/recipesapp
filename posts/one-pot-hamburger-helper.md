@@ -32,7 +32,7 @@ layout: layouts/post.njk
 ### Directions
 
 - Preheat oven to 350
-- Add oil and onions to dutch oven and sauté
+- Add oil and onions to Dutch oven and sauté
 - Add sausage and garlic and stir
 - Add spices and yeast and cook for a few minutes
 - Add tomatoes, cheese, and aminos and cook for 8 minutes

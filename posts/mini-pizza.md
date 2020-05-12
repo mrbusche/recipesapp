@@ -14,7 +14,7 @@ layout: layouts/post.njk
 - 4" tortillas
 - pizza sauce
 - toppings of your choice
-  - Mozarella cheese
+  - Mozzarella cheese
   - peppers
   - pepperoni
 

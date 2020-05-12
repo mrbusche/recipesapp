@@ -15,10 +15,10 @@ layout: layouts/post.njk
 - 2 Tbsp olive oil
 - 1 medium onion diced into half rings
 - 2 garlic cloves, minced
-- 3 portobello mushroom caps, 20 oz total
+- 3 Portobello mushroom caps, 20 oz total
 - 1 cup vegetable broth
 - 1 Tbsp soy sauce
-- 1 Tbsp worcestershire sauce
+- 1 Tbsp Worcestershire sauce
 - 1/2 tsp dried thyme
 - 1/4 tsp liquid smoke
 - 2-6" sandwich rolls
