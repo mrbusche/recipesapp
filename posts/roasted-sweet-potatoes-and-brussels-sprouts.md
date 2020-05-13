@@ -3,7 +3,7 @@ title: Roasted Sweet Potatoes and Brussels Sprouts
 description: Roasted Sweet Potatoes and Brussels Sprouts
 date: 2020-05-13 17:38:00
 tags:
-  - sweetpotatoes
+  - sweetpotato
   - brusselssprouts
 layout: layouts/post.njk
 ---
