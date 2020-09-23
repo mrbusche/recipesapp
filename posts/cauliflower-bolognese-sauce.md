@@ -20,7 +20,6 @@ layout: layouts/post.njk
 - 1 27oz can diced tomatoes
 - 2 tsp Italian herbs
 - 1 tsp oregano
-- 1/2 cup fresh basil
 - 1 tsp salt
 - spaghetti noodles, cooked
 
