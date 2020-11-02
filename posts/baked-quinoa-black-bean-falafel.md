@@ -12,7 +12,7 @@ layout: layouts/post.njk
 
 ### Ingredients
 
-- 1 cup cooked and completely cooled quinoa
+- 1 cup cooked and completely cooled quinoa (1/3 cup dry)
 - 1 15-ounce can black beans, rinsed, drained, dried
 - 1/4 cup pumpkin seeds
 - 5 cloves garlic
