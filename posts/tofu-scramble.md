@@ -9,7 +9,7 @@ layout: layouts/post.njk
 
 ### Ingredients
 
-- 1 Tbsp olive olive
+- 1 Tbsp olive oil
 - 1 16oz block firm tofu
 - 2 Tbsp nutritional yeast
 - 1 tsp salt
