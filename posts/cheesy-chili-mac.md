@@ -6,7 +6,6 @@ tags:
   - tomatoes
   - blackbeans
   - pintobeans
-  - kidneybeans
   - corn
   - broth
   - pasta
@@ -23,7 +22,6 @@ layout: layouts/post.njk
 - 2 Tbsp chili powder
 - 1 15oz can diced tomatoes
 - 1 15oz can tomato sauce
-- 1 15oz can kidney beans
 - 1 15oz can black beans
 - 1 15oz can pinto beans
 - 1 cup frozen corn kernels
