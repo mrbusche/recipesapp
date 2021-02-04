@@ -26,10 +26,10 @@ layout: layouts/post.njk
 - Press tofu for 15 minutes
 - Preheat oven to 400
 - Get 3 mixing bowls, add almond milk and lemon juice to one, whisk to combine
-- Add flour a 1 tsp salt to another bowl
+- Add flour nda 1 tsp salt to another bowl
 - Add breadcrumbs, yeast, garlic, basil, oregano, and remaining salt
 - Slice tofu into triangles
-- Place tofu into flour, then milk, then breadcrumbs
+- Place tofu into flour, then milk, then flour against, then milk again, then breadcrumbs
 - Bake for 20-25 minutes, flipping halfway through
 
 [Source](https://www.rabbitandwolves.com/parmesan-herb-crusted-tofu-vegan/)
