@@ -28,4 +28,4 @@ layout: layouts/post.njk
 - Preheat oven to 450
 - Cut everything into small cubes and cover with oil and spices
 - Cook for 50 minutes, mixing a lot
-- Server over couscous
+- Serve over couscous
