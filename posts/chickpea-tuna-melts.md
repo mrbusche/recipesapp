@@ -3,7 +3,7 @@ title: Chickpea Tuna Melts
 description: Chickpea Tuna Melts
 date: 20202-05-31 17:42:00
 tags:
-  - tofu
+  - chickpeas
 
 layout: layouts/post.njk
 ---
