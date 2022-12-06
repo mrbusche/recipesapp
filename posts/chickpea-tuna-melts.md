@@ -20,7 +20,7 @@ layout: layouts/post.njk
 - 1 tsp juice from jarred pickles
 - 1/2 tsp old bay seasoning
 - 1/2 tsp paprika
-- - 1/4 tsp salt
+- 1/4 tsp salt
 - 1/4 tsp pepper
 - 1 large tomato
 - 1 cup vegan cheddar shreds
