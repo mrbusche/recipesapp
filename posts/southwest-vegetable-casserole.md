@@ -23,7 +23,7 @@ layout: layouts/post.njk
 - 1 large sweet potato
 - 15 oz can black beans, rinsed/drained
 - 14.5 oz diced tomatoes
-- 1/3 cup BBG sauce of choice
+- 1/3 cup BBQ sauce of choice
 - crushed tortilla chips
 
 ### Directions
