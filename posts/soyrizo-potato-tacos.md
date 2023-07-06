@@ -27,4 +27,4 @@ layout: layouts/post.njk
 
 - Cut potatoes into small squares
 - Combine potatoes with oil, cumin, chili powder, oregano, and salt
-- Cook at 425 for 25-30 minutes or air fry 15029 minutes at 390
+- Cook at 425 for 25-30 minutes or air fry 15-20 minutes at 390
