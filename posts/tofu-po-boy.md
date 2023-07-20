@@ -15,7 +15,7 @@ layout: layouts/post.njk
 - 1 pound extra firm tofu, drained and pressed
 - 1 c almond milk
 - 2 Tbsp corn starch
-- 1 c corn mea
+- 1 c corn meal
 - 2 Tbsp chili powder
 - 1 tsp cumin
 - 1 tsp salt
