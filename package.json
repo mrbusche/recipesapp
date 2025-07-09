@@ -6,6 +6,7 @@
     "build": "eleventy",
     "watch": "eleventy --watch",
     "serve": "eleventy --serve",
+    "prettier:fix": "prettier --write .",
     "debug": "DEBUG=* eleventy"
   },
   "repository": {
@@ -25,6 +26,7 @@
     "@11ty/eleventy-plugin-syntaxhighlight": "5.0.1",
     "luxon": "3.6.1",
     "markdown-it": "14.1.0",
-    "markdown-it-anchor": "9.2.0"
+    "markdown-it-anchor": "9.2.0",
+    "prettier": "^3.6.2"
   }
 }
