@@ -14,12 +14,10 @@ layout: layouts/post.njk
 ### Ingredients
 
 - Plantains
-
   - 4 large ripe plantains
   - 1.5 Tbsp coconut oil
 
 - Rice and beans
-
   - 1 cup dry rice
   - 1 can black beans
   - Optional
@@ -28,7 +26,6 @@ layout: layouts/post.njk
     - chili powder
 
 - Slaw
-
   - 3 cups finely shredded cabbage
   - 1 cup finely chopped green onion
 

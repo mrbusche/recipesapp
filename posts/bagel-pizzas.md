@@ -19,10 +19,11 @@ layout: layouts/post.njk
 - 1 tsp Olive Oil
 
 ### Directions
+
 - Brush the bagels with olive oil
 - Sprinkle bagels with garlic powder and oregano
 - Toast bagels at 370 degrees for 4 minutes. Rotate halfway.
-- Add pizza sauce. 
-- Sprinkle with mozzarella and parmesan cheese. 
+- Add pizza sauce.
+- Sprinkle with mozzarella and parmesan cheese.
 - Return bagels to the air fryer and toast for 4 minutes. Rotate halfway.
-- Allow bagels to cool for 1-2 minutes before enjoying. 
+- Allow bagels to cool for 1-2 minutes before enjoying.
