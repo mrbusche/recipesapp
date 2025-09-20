@@ -12,13 +12,15 @@ layout: layouts/post.njk
 
 #### Tofu
 
+##### (Sized down appropriately)
+
 - 1 pound extra firm tofu, drained and pressed
-- 1 c almond milk (only really need 1/3 c, make sure to decrease corn starch too)
-- 2 Tbsp corn starch
-- 1 c corn meal
-- 2 Tbsp chili powder
-- 1 tsp cumin
-- 1 tsp salt
+- 1/3 c almond milk
+- 1 1/2 tsp corn starch
+- 1/2 c corn meal
+- 1 Tbsp chili powder
+- 1/2 tsp cumin
+- 1/2 tsp salt
 
 #### Crispy Cole Slaw
 
