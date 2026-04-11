@@ -3,7 +3,7 @@ matrix:
     pipeline:
       - pyspelling.filters.text
     sources:
-      - "**/*.md"
+      - '**/*.md'
     default_encoding: utf-8
     aspell:
       lang: en
