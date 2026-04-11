@@ -2,23 +2,24 @@
   "name": "vegan-recipes",
   "version": "0.0.1",
   "description": "A list of Vegan Recipes I've enjoyed.",
-  "scripts": {
-    "build": "eleventy",
-    "watch": "eleventy --watch",
-    "serve": "eleventy --serve",
-    "prettier:fix": "prettier --write .",
-    "debug": "DEBUG=* eleventy"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/mrbusche/recipesapp.git"
-  },
+  "license": "MIT",
   "author": {
     "name": "Matt Busche",
     "email": "mrbusche@gmail.com",
     "url": "https://mrbusche.com/"
   },
-  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrbusche/recipesapp.git"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "fmt": "oxfmt .",
+    "lint": "oxlint .",
+    "debug": "DEBUG=* eleventy"
+  },
   "devDependencies": {
     "@11ty/eleventy": "3.1.5",
     "@11ty/eleventy-navigation": "1.0.5",
@@ -27,6 +28,7 @@
     "luxon": "3.7.2",
     "markdown-it": "14.1.1",
     "markdown-it-anchor": "9.2.0",
-    "prettier": "3.8.2"
+    "oxfmt": "0.44.0",
+    "oxlint": "1.59.0"
   }
 }
