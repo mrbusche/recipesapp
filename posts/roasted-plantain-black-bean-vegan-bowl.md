@@ -11,7 +11,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - Plantains
   - 4 large ripe plantains
@@ -33,7 +33,7 @@ layout: layouts/post.njk
   - Guacamole
   - Salsa
 
-### Directions
+## Directions
 
 - Prepare rice
 - Cut plantains into 1/4" thick slices

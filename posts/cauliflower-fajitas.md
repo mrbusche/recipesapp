@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 large head cauliflower, cut into bite size florets
 - 2 red peppers, sliced
@@ -26,7 +26,7 @@ layout: layouts/post.njk
   - 1/4 tsp onion powder
   - 1 tsp salt
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - Line pan with parchment paper or spray

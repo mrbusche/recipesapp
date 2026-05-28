@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 white potatoes
 - 2 sweet potatoes
@@ -20,7 +20,7 @@ layout: layouts/post.njk
   - Salt
   - Thyme
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - Cut potatoes into 1/2" cubes and toss with oil and spices

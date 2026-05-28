@@ -8,13 +8,13 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 large sweet potatoes, diced into small chunks
 - 1/4 olive oil
 - coconut sugar (optional)
 
-### Directions
+## Directions
 
 - Preheat oven to 450
 - Toss diced sweet potatoes with oil

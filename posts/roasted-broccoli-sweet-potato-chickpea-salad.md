@@ -10,9 +10,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
-#### Vegetables
+### Vegetables
 
 - 1 large sweet potato
 - 1 medium head broccoli
@@ -21,7 +21,7 @@ layout: layouts/post.njk
 - 1 tsp dill
 - 1 medium sized pepper
 
-#### Chickpeas
+### Chickpeas
 
 - 15oz can chickpeas, drained, rinsed
 - 1 Tbsp olive oil
@@ -34,7 +34,7 @@ layout: layouts/post.njk
 - 1/2 tsp coriander
 - 1/2 tsp cardamom
 
-#### Garlic dill sauce
+### Garlic dill sauce
 
 - 1/3 cup hummus
 - 3 cloves garlic, mined
@@ -42,7 +42,7 @@ layout: layouts/post.njk
 - 2 Tbsp lemon juice
 - water (to thin)
 
-### Directions
+## Directions
 
 - Preheat oven to 375
 - Add chickpeas to bowl and season with oil, spices, and sugar

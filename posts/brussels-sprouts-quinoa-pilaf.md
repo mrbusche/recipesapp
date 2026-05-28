@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 pound shredded brussels Sprouts
 - 1 shallot chopped or 1/4 cup yellow onion
@@ -22,7 +22,7 @@ layout: layouts/post.njk
 - 1/4 cup raisins
 - 1 1/2 cup cooked quinoa (2/3 cup quinoa, 1 1/3 cup water)
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - Combine sprouts, shallot, garlic, oil, lemon juice, curry powder and salt in a baking dish

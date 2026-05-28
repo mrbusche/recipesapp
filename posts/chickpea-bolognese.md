@@ -10,9 +10,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
-#### Chickpeas
+### Chickpeas
 
 - 15 oz chickpeas, rinsed and dried
 - 1 Tbsp olive oil
@@ -22,7 +22,7 @@ layout: layouts/post.njk
 - 3 Tbsp bread crumbs
 - 1 Tbsp parmesan cheese
 
-#### Sauce
+### Sauce
 
 - 1 Tbsp olive oil
 - 3 cloves minced garlic
@@ -32,7 +32,7 @@ layout: layouts/post.njk
 - 1 Tbsp parmesan cheese
 - 1 Tbsp sugar or maple syrup
 
-### Directions
+## Directions
 
 - Preheat oven to 375
 - Add all chickpea ingredients to a bowl

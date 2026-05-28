@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 package super firm tofu, cubed
 - 1 Tbsp soy sauce
@@ -25,7 +25,7 @@ layout: layouts/post.njk
 - 1/2 tsp onion powder
 - 1/2 tsp salt
 
-### Directions
+## Directions
 
 - Combine soy sauce, broth, garlic, and oil in a dish or bowl then add tofu to marinate for 20 minutes
 - Preheat oven to 375

@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 avocado
 - 1/4 cup fresh basil
@@ -22,7 +22,7 @@ layout: layouts/post.njk
 - 1 cucumber
 - paprika for garnish
 
-### Directions
+## Directions
 
 - Add avocado, basil, nutritional yeast, lime juice, garlic and salt in a food processor
 - Blend until smooth

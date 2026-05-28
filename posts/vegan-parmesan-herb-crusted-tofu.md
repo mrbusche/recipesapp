@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 15 oz. extra firm tofu
 - 1/2 cup almond milk
@@ -21,7 +21,7 @@ layout: layouts/post.njk
 - 1/2 tsp basil
 - 1/2 tsp oregano
 
-### Directions
+## Directions
 
 - Press tofu for 15 minutes
 - Preheat oven to 400

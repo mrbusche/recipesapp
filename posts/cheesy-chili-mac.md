@@ -13,7 +13,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 Tbsp olive oil
 - 1 onion
@@ -29,7 +29,7 @@ layout: layouts/post.njk
 - 2 cups uncooked macaroni noodles
 - 1 cup shredded sharp cheddar
 
-### Directions
+## Directions
 
 - Sauté onion and garlic with olive oil in the bottom of a large pot for 2-3 minutes
 - Add flour and chili powder to the pot, stir for about 2 minutes

@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 white potatoes
 - 2 sweet potatoes
@@ -23,7 +23,7 @@ layout: layouts/post.njk
 - olive oil
 - spices
 
-### Directions
+## Directions
 
 - Preheat oven to 450
 - Cut everything into small cubes and cover with oil and spices

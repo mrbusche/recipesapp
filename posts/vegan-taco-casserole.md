@@ -11,7 +11,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 medium onion, chopped
 - 7 cloves garlic, chopped
@@ -31,7 +31,7 @@ layout: layouts/post.njk
   - Green onions
   - lime juice
 
-### Directions
+## Directions
 
 - Preheat oven to 400
 - Combine onion, garlic, oil, chili powder, cumin, basil, cayenne, paprika, and salt in a skillet and cook for 5-10 minutes

@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1/2 cup peanuts
 - 1/4 cup oats
@@ -26,7 +26,7 @@ layout: layouts/post.njk
 - 1/2 cup sweet potato puree
 - breadcrumbs
 
-### Directions
+## Directions
 
 - Preheat oven to 400
 - Blend peanuts, oats, garlic, and ginger in a food processor

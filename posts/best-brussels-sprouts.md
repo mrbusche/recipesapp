@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 3 cups brussels sprouts, halved
 - 1 tsp black pepper
@@ -17,7 +17,7 @@ layout: layouts/post.njk
 - 2 Tbsp olive oil
 - 1/4 cup seasoned bread crumbs
 
-### Directions
+## Directions
 
 - Add sprouts, pepper, garlic, and 1 Tbsp of olive oil to skillet
 - Cook on low for 10 minutes

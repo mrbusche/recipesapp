@@ -11,7 +11,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 yellow onion, diced
 - 2 clove garlic, minced
@@ -20,7 +20,7 @@ layout: layouts/post.njk
 - 18 oz red enchilada sauce
 - 8 tortillas
 
-### Directions
+## Directions
 
 - Preheat oven to 350
 - In large pan sauté onion, garlic and cauliflower for about 7 minutes, add water if needed

@@ -11,7 +11,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 10 oz vegan beef
 - 1 glove garlic, minced
@@ -23,7 +23,7 @@ layout: layouts/post.njk
 - 1/2 tsp salt
 - large handful chopped spinach
 
-### Directions
+## Directions
 
 - Sauté vegan beef
 - Add garlic clove, sauté 30 seconds

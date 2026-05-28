@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 1/2 cups flour
 - 1 Tbsp baking powder
@@ -18,7 +18,7 @@ layout: layouts/post.njk
 - 1/2 cup water
 - 2 Tbsp canola oil
 
-### Directions
+## Directions
 
 - Mix dry ingredients in large bowl
 - Add wet ingredients and stir until combined

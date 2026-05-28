@@ -12,9 +12,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
-#### Batter:
+### Batter
 
 - 1/2 cup chickpea flour
 - 4 Tbsp cornstarch
@@ -22,7 +22,7 @@ layout: layouts/post.njk
 - 1/2 Tbsp soy sauce
 - 1 head of cauliflower cut into bite-sized florets
 
-#### Sauce:
+### Sauce
 
 - 1/2 cup of water
 - 3 Tbsp soy sauce
@@ -31,7 +31,7 @@ layout: layouts/post.njk
 - 1 Tbsp cornstarch
 - 1/2 tsp smoked paprika
 
-#### For the skillet:
+### For the skillet
 
 - 2 tsp oil or water
 - 4 cloves garlic minced
@@ -40,7 +40,7 @@ layout: layouts/post.njk
 - 1 tsp sesame seeds
 - fresh chives chopped
 
-### Directions
+## Directions
 
 Batter:
 

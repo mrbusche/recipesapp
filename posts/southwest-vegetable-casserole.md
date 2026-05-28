@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 Tbsp olive oil
 - 1 cup chopped onion
@@ -26,7 +26,7 @@ layout: layouts/post.njk
 - 1/3 cup BBQ sauce of choice
 - crushed tortilla chips
 
-### Directions
+## Directions
 
 - Preheat oven to 350
 - In a large skillet heat oil

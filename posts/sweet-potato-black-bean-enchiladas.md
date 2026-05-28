@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - [roasted sweet potatoes](/posts/roasted-sweet-potatoes)
 - 2 medium onions, diced
@@ -24,7 +24,7 @@ layout: layouts/post.njk
 - 16 oz enchilada sauce
 - 8-10 tortillas
 
-### Directions
+## Directions
 
 - Make sweet potatoes
 - Preheat oven to 350 degrees

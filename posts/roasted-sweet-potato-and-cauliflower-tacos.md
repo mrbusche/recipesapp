@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 small head cauliflower, cut into bite-sized pieces
 - 1 large sweet potato, diced into 1/2" cubes
@@ -21,7 +21,7 @@ layout: layouts/post.njk
 - 1/2 tsp dried oregano
 - 14-ounce black beans, drained & rinsed
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - combine all ingredients except beans

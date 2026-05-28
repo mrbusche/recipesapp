@@ -8,14 +8,14 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2-3 ripe pears
 - coconut oil
 - coconut sugar
 - cinnamon
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - Peel pears and cut into 4 big pieces

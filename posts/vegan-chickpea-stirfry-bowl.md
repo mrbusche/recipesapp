@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 large onion, diced
 - 8 cloves of garlic, minces
@@ -23,7 +23,7 @@ layout: layouts/post.njk
 - brown rice
 - [homemade stir fry size](/posts/stir-fry-sauce)
 
-### Directions
+## Directions
 
 - Preheat over to 450
 - Place chickpeas on baking sheet and toss with 1/8 cup of olive oil
