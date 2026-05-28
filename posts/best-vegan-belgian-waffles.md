@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 Tbsp flax seed
 - 5 Tbsp water
@@ -21,7 +21,7 @@ layout: layouts/post.njk
 - 5 Tbsp butter or coconut oil
 - 2 tsp vanilla extract
 
-### Directions
+## Directions
 
 - Preheat waffle iron.
 - Combine flax and water in a small bowl to make a flax egg, set aside

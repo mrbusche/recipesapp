@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 Tbsp olive oil
 - 1 16oz block firm tofu
@@ -17,7 +17,7 @@ layout: layouts/post.njk
 - 1/4 tsp garlic powder
 - 2 Tbsp non-dairy milk
 
-### Directions
+## Directions
 
 - Heat olive oil in pan over medium heat
 - Crumble tofu into pan and cook for 3-4 minutes until most water is evaporated

@@ -11,7 +11,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 small head cauliflower
 - 1 onion, chopped
@@ -23,7 +23,7 @@ layout: layouts/post.njk
 - 1 tsp salt
 - spaghetti noodles, cooked
 
-### Directions
+## Directions
 
 - Pulse cauliflower in a food processor, 1/4 of the head at a time
 - In a large pan sauté onion and add garlic, 4-5 minutes

@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 Tbsp nutritional yeast
 - 1 Tbsp soy sauce
@@ -18,7 +18,7 @@ layout: layouts/post.njk
 - ¼ tsp liquid smoke
 - 1 block extra-firm tofu
 
-### Directions
+## Directions
 
 - Preheat the oven to 350°F
   Mix the tofu seasoning: In a large mixing bowl, whisk together the nutritional yeast, soy sauce, olive oil (or vegetable broth for oil-free), chili powder, garlic powder, and liquid smoke to create a - thick, brown paste.

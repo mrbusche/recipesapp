@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 Pre-Sliced Bagels
 - 1/4 Teaspoon Garlic Powder
@@ -18,7 +18,7 @@ layout: layouts/post.njk
 - 2 Tbsp Parmesan Cheese
 - 1 tsp Olive Oil
 
-### Directions
+## Directions
 
 - Brush the bagels with olive oil
 - Sprinkle bagels with garlic powder and oregano

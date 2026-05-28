@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 large head cauliflower
 - 1 cup water
@@ -20,7 +20,7 @@ layout: layouts/post.njk
 - 1 cup Frank's Red Hot Sauce
 - 1 Tbsp vegan butter, melted
 
-### Directions
+## Directions
 
 - Preheat oven to 450
 - Wash and cut cauliflower into bite sized pieces.

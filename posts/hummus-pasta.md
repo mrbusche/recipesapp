@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 box/12 ounces rotini pasta
 - 2 cups marinara sauce
@@ -17,7 +17,7 @@ layout: layouts/post.njk
 - 1/4 cup hemp hearts
 - 1-2 cups frozen peas
 
-### Directions
+## Directions
 
 - Cook noodles according to package directions
 - Drain cooked pasta and place it back into the pot

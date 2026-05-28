@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 block extra firm tofu
 - 2 1/2 Tbsp olive oil
@@ -17,7 +17,7 @@ layout: layouts/post.njk
 - 1 tsp smoked paprika
 - 1 tsp salt
 
-### Directions
+## Directions
 
 - Preheat oven to 375
 - Cut tofu into 3 slices, then rectangles, then into triangles

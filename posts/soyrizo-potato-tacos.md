@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 1/2 pounds potatoes
 - 1 Tbsp olive oil
@@ -23,7 +23,7 @@ layout: layouts/post.njk
   - diced tomatoes
   - guacamole
 
-### Directions
+## Directions
 
 - Cut potatoes into small squares
 - Combine potatoes with oil, cumin, chili powder, oregano, and salt

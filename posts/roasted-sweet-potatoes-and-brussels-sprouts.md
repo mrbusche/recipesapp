@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 pound brussels sprouts
 - 1 pound sweet potatoes (1 large or 2 medium)
@@ -18,7 +18,7 @@ layout: layouts/post.njk
 - 1/2 tsp garlic salt
 - 1 tsp salt
 
-### Directions
+## Directions
 
 - Preheat oven to 400
 - Trim brussels and cut in half

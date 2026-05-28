@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 4" tortillas
 - pizza sauce
@@ -18,7 +18,7 @@ layout: layouts/post.njk
   - peppers
   - pepperoni
 
-### Directions
+## Directions
 
 - Preheat oven to 450
 - Put pizza sauce on tortilla

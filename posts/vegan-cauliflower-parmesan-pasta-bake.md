@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1/4 inch thick slices from half a head of cauliflower
 - olive oil
@@ -28,7 +28,7 @@ layout: layouts/post.njk
   - 1/2 tsp onion powder
   - 1 tsp Italian herb blend
 
-### Directions
+## Directions
 
 - Preheat oven to 400
 - Place cauliflower slices on pan and brush with olive oil

@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 Tbsp olive oil
 - 6 cloves garlic, minced
@@ -22,7 +22,7 @@ layout: layouts/post.njk
 - 8 oz spaghetti
 - meatballs, cooked
 
-### Directions
+## Directions
 
 - Heat olive oil in large pot
 - Add garlic and onions and sauté for 5 minutes

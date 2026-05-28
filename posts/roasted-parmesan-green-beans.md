@@ -8,14 +8,14 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - Green Beans
 - 2 Tbsp olive oil
 - 1/4 tsp garlic powder
 - 1 1/2 tsp parmesan
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - Lay green beans on baking sheet and drizzle with oil and garlic powder

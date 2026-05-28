@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 Tbsp olive oil
 - 16 oz mushrooms, sliced
@@ -23,7 +23,7 @@ layout: layouts/post.njk
 - 1/2 cup bread crumbs
 - 2 Tbsp nutritional yeast
 
-### Directions
+## Directions
 
 - Preheat oven to 450
 - Heat oil on medium high in an oven safe pot

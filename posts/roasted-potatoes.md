@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 3 or 4 white potatoes
 - Olive oil
@@ -19,7 +19,7 @@ layout: layouts/post.njk
   - Salt
   - Thyme
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - Cut potatoes into quarters and toss with oil and spices

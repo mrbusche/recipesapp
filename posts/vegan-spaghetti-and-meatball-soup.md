@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 Tbsp olive oil
 - 6 cloves garlic, mined
@@ -22,7 +22,7 @@ layout: layouts/post.njk
 - 1 tsp dried oregano
 - 8 oz spaghetti
 
-### Directions
+## Directions
 
 - Heat oil in a Dutch oven then add garlic and onion and sauté for 5 minutes
 - Add all remaining ingredients except pasta and bring to a simmer

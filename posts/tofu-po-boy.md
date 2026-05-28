@@ -8,11 +8,11 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
-#### Tofu
+### Tofu
 
-##### (Sized down appropriately)
+#### (Sized down appropriately)
 
 - 1 pound extra firm tofu, drained and pressed
 - 1/3 c almond milk
@@ -22,7 +22,7 @@ layout: layouts/post.njk
 - 1/2 tsp cumin
 - 1/2 tsp salt
 
-#### Crispy Cole Slaw
+### Crispy Cole Slaw
 
 - 1/3 c vegan mayo
 - 1/2 tsp dried dill
@@ -30,7 +30,7 @@ layout: layouts/post.njk
 - 1 carrot, finely shredded
 - 1/2 c finely diced bread and butter pickles
 
-### Directions
+## Directions
 
 - Mix milk and corn starch
 - Combine all dry ingredients

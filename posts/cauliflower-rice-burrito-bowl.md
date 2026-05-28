@@ -11,9 +11,9 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
-#### Cauliflower rice
+### Cauliflower rice
 
 - 1 Tbsp olive oil
 - 3 cloves garlic, mined
@@ -26,7 +26,7 @@ layout: layouts/post.njk
 - 1/3 cup salsa
 - 1/4 cup fresh cilantro
 
-#### Peppers/Beans
+### Peppers/Beans
 
 - 1 Tbsp olive oil
 - 1 medium pepper sliced lengthwise
@@ -36,7 +36,7 @@ layout: layouts/post.njk
 - 1/2 tsp chili powder
 - salt to taste
 
-### Directions
+## Directions
 
 - Heat a large skillet over medium heat with some oil
 - Add garlic, onion and some salt, sauté for 1 minute

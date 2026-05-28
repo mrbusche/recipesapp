@@ -8,31 +8,31 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
-#### French toast
+### French toast
 
-- 14 oz bread (roughly 2 french loaves)
+- 14 oz bread (roughly 2 French loaves)
 - 1 c. pumpkin puree
 - 4 flax eggs (4 Tbsp flax + 12 Tbsp water)
 - 1/2 c coconut milk
-- 1 c almond mlik
+- 1 c almond milk
 - 1/4 c maple syrup
 - 1 tsp cinnamon
 - pinch salt
 - 1 Tbsp vanilla extract
 
-#### Topping
+### Topping
 
 - 7 Tbsp almond flour
 - 3 Tbsp maple syrup
 - 1/2 Tbsp melted butter
 - 3/4 c pecans
 
-### Directions
+## Directions
 
 - tear up bread and add to 1.5 qt casserole dish
-- Mix other french toast ingredients
+- Mix other French toast ingredients
 - Pour over bread, press down so all bread is soaked
 - Cover with saran wrap and refrigerate overnight
 - Mix topping and spread over top of casserole

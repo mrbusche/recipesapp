@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - tortillas
 - 2-3 sweet potatoes, cubed in 1/2" chunks
@@ -24,7 +24,7 @@ layout: layouts/post.njk
 - 1 tsp pepper
 - 1 16 oz can black beans
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - Toss everything, except beans, in a bowl

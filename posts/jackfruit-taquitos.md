@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 20 oz canned jackfruit
 - 2 tsp oil
@@ -19,7 +19,7 @@ layout: layouts/post.njk
 - 1 tsp coconut aminos
 - 2 Tbsp [taco seasoning](/posts/taco-seasoning/)
 
-### Directions
+## Directions
 
 - Preheat oven to 425
 - Rinse and cut jackfruit into "shredded beef" like pieces
@@ -32,6 +32,6 @@ layout: layouts/post.njk
 - Add to pan with seam down
 - Spray/brush tops with oil
 - Cook for 15 minutes
-- Dip in guacamole, salsa, etc
+- Dip in guacamole, salsa, etc.
 
 [Source](https://cadryskitchen.com/vegan-taquitos-jackfruit/)

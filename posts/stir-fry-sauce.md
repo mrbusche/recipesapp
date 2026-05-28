@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 5 garlic gloves, minced
 - 2 tsp sesame oil

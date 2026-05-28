@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 large sweet potatoes (2 pounds)
 - 1 tsp salt
@@ -18,7 +18,7 @@ layout: layouts/post.njk
 - 1/2 cup butter
 - 1/2 cup fresh sage leaves
 
-### Directions
+## Directions
 
 - Bake sweet potatoes - 425 for 45 minutes or in microwave
 - Cut the potatoes in half lengthwise

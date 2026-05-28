@@ -9,7 +9,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - Cashew cheese
   - 1 1/2 cups raw cashews
@@ -24,7 +24,7 @@ layout: layouts/post.njk
   - 25 oz marinara sauce
   - vegan mozzarella cheese
 
-### Directions
+## Directions
 
 - Preheat oven to 375
 - Soak cashews in boiling water for at least 5 minutes

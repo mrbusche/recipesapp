@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 Tbsp olive oil
 - 1 medium onion diced into half rings
@@ -23,7 +23,7 @@ layout: layouts/post.njk
 - 1/4 tsp liquid smoke
 - 2-6" sandwich rolls
 
-### Directions
+## Directions
 
 - Add 1 Tbsp oil to a skillet
 - Add onion and toss with oil, cook until caramelized, about 20 minutes

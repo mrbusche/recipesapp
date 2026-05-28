@@ -12,7 +12,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - Ground beef or beef substitute
 - 3 Tbsp [taco seasoning](/posts/taco-seasoning)
@@ -22,7 +22,7 @@ layout: layouts/post.njk
 - 2-3 cups tater tots
 - 1/2 cup vegan cheese
 
-### Directions
+## Directions
 
 - Preheat oven to 400
 - In a large skillet cook beef and add taco seasoning

@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - Jackfruit Carnitas
   - 1 tsp olive oil
@@ -33,7 +33,7 @@ layout: layouts/post.njk
   - 1/2 cup vegan mayo
   - 1 tsp smoked paprika
 
-### Directions
+## Directions
 
 - Heat oil in a skillet and fry onion until softened
 - Add cumin, chili powder and paprika

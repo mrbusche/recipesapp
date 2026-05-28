@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 10 oz pasta
 - 3 oz sun-dried tomatoes
@@ -17,7 +17,7 @@ layout: layouts/post.njk
 - 4 cloves garlic, mined
 - 2 Tbsp vegan parmesan
 
-### Directions
+## Directions
 
 - Cook pasta according to package instructions
 - Add remaining ingredients to food processor and puree

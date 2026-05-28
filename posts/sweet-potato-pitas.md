@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 2 sweet potatoes
 - Pitas
@@ -21,7 +21,7 @@ layout: layouts/post.njk
 - Olive oil
 - Salt and pepper
 
-### Directions
+## Directions
 
 - Preheat oven to 450
 - Slice sweet potatoes into quarter inch rounds

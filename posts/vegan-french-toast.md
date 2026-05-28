@@ -8,7 +8,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 3 c almond milk
 - 3/4 c cornstarch
@@ -17,9 +17,9 @@ layout: layouts/post.njk
 - 3 tsp cinnamon
 - 6 tsp maple syrup
 - 3 tsp vanilla
-- 18-24 slices french bread
+- 18-24 slices French bread
 
-### Directions
+## Directions
 
 - Whisk together all ingredients
 - Dip bread into mix

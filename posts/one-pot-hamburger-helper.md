@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 large onion, chopped
 - 2 Tbsp olive oil
@@ -29,7 +29,7 @@ layout: layouts/post.njk
 - 1/2 tsp salt
 - 16 oz noodles of choice
 
-### Directions
+## Directions
 
 - Preheat oven to 350
 - Add oil and onions to Dutch oven and sauté

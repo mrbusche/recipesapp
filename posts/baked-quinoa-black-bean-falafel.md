@@ -10,7 +10,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-### Ingredients
+## Ingredients
 
 - 1 cup cooked and completely cooled quinoa (1/3 cup dry)
 - 1 15-ounce can black beans, rinsed, drained, dried
@@ -23,7 +23,7 @@ layout: layouts/post.njk
 - 2 Tbsp coconut aminos
 - 1 tsp nutritional yeast
 
-### Directions
+## Directions
 
 - Prepare quinoa and let completely cool
 - Preheat oven to 350
