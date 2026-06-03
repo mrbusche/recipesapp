@@ -1,7 +1,7 @@
 ---
 title: Vegan French Toast
 description: Vegan French Toast
-date: 2023-07-04
+date: 2026-05-27
 tags:
   - bread
   - breakfast
