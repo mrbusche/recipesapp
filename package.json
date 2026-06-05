@@ -21,14 +21,14 @@
     "debug": "DEBUG=* eleventy"
   },
   "devDependencies": {
-    "@11ty/eleventy": "3.1.5",
+    "@11ty/eleventy": "3.1.6",
     "@11ty/eleventy-navigation": "1.0.5",
     "@11ty/eleventy-plugin-rss": "3.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "5.0.2",
     "luxon": "3.7.2",
     "markdown-it": "14.2.0",
     "markdown-it-anchor": "9.2.0",
-    "oxfmt": "0.52.0",
-    "oxlint": "1.67.0"
+    "oxfmt": "0.53.0",
+    "oxlint": "1.68.0"
   }
 }
