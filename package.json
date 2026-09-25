@@ -28,7 +28,7 @@
     "luxon": "3.7.2",
     "markdown-it": "15.0.2",
     "markdown-it-anchor": "10.0.0",
-    "oxfmt": "0.67.0",
-    "oxlint": "1.82.0"
+    "oxfmt": "0.70.0",
+    "oxlint": "1.85.0"
   }
 }
